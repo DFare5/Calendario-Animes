@@ -1,0 +1,40 @@
+.fundo{
+    background-color: #0b006bb2;
+}
+.titulo{
+    text-align: center;
+    width: 800px;
+    height: 100px;
+    background: #a1fafa ;
+    margin-left: 35%;
+}
+.border-titulo{
+    border-radius: 40px;
+    border-color: #000;
+    border-style: outset;
+}
+.solo {
+    text-align: center;
+    width: 500px;
+    height: 450px;
+    background: #a1fafa ;
+    margin-left: 10%;
+}
+.border-solo{
+    border-radius: 40px;
+    border-color: #000;
+    border-style: outset;
+}
+.outro{
+    text-align: center;
+    width: 500px;
+    height: 450px;
+    background: #a1fafa ;
+    margin-left: 120%;
+    margin-top: -12%;
+}
+.outro-border{
+    border-radius: 40px;
+    border-color: #000;
+    border-style: outset;
+}

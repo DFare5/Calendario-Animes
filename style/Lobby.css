@@ -1,0 +1,30 @@
+.fundo{
+    background-color: #0b006bb2;
+}
+.titulo{
+   text-align: center;
+   width: 800px;
+   height: 50px;
+   background: #a1fafa ;
+   margin-left: 35%;
+}
+.titulo-border{
+    border-radius: 40px;
+    border-color: #000;
+    border-style: outset;
+
+}
+.animes-semanais{
+   text-align: center;
+   width: 500px;
+   height: 300px;
+   background: #a1fafa ;
+   margin-left: 20%;
+
+}
+.border-animes-semanais{
+    border-radius: 40px;
+    border-color: #000;
+    border-style: outset;
+
+}

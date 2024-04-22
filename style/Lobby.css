@@ -1,5 +1,6 @@
 .fundo{
-    background-color: #0b006bb2;
+    background-image: linear-gradient(to right, rgb(68, 0, 255), rgb(118, 57, 231));
+
 }
 .titulo{
    text-align: center;
@@ -27,4 +28,9 @@
     border-color: #000;
     border-style: outset;
 
+}
+#bumtaum{
+   width: 24%;
+   height: 35px;
+   background-image: linear-gradient(to right, rgb(3, 152, 172), aqua, rgb(157, 248, 255) );
 }

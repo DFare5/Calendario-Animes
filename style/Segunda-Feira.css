@@ -1,12 +1,13 @@
 .fundo{
-    background-color: #0b006bb2;
+    background-image: linear-gradient(to right, rgb(68, 0, 255), rgb(118, 57, 231));
 }
 .titulo{
     text-align: center;
-    width: 800px;
-    height: 100px;
+    width: 800%;
+    height: 60px;
     background: #a1fafa ;
-    margin-left: 35%;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 .border-titulo{
     border-radius: 40px;
@@ -18,7 +19,9 @@
     width: 500px;
     height: 450px;
     background: #a1fafa ;
-    margin-left: 10%;
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 2%;
 }
 .border-tsuki{
     border-radius: 40px;
@@ -30,8 +33,9 @@
     width: 500px;
     height: 450px;
     background: #a1fafa ;
-    margin-left: 120%;
-    margin-top: -83%;
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 2%;
 }
 .outro-border{
     border-radius: 40px;
@@ -39,6 +43,22 @@
     border-style: outset;
 }
 .tsuki-imagem{
+    border-radius: 40px;
     width: 400px;
-    height: 350px;
+    height: 350px;  
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.kara-imagem{
+    border-radius: 40px;
+    width: 400px;
+    height: 350px;  
+}
+.remonster-imagem{
+    border-radius: 40px;
+    width: 400px;
+    height: 350px;  
 }

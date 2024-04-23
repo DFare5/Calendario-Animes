@@ -38,8 +38,3 @@
    margin-right: 2%;
    background-image: linear-gradient(to right, rgb(3, 152, 172), aqua, rgb(157, 248, 255) );
 }
-.botoe{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}

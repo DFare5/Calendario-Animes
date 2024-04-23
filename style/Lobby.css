@@ -17,10 +17,12 @@
 }
 .animes-semanais{
    text-align: center;
-   width: 500px;
-   height: 300px;
+   width: 750px;
+   height: 500px;
+   margin-left: 36%;
+   margin-right: 36%;
    background: #a1fafa ;
-   margin-left: 20%;
+
 
 }
 .border-animes-semanais{
@@ -30,7 +32,14 @@
 
 }
 #bumtaum{
-   width: 24%;
-   height: 35px;
+   width: 30%;
+   height: 50px;
+   margin-top: 2%;
+   margin-right: 2%;
    background-image: linear-gradient(to right, rgb(3, 152, 172), aqua, rgb(157, 248, 255) );
+}
+.botoe{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }

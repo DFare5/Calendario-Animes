@@ -4,7 +4,7 @@
 .titulo{
     text-align: center;
     width: 800%;
-    height: 60px;
+    height: 120px;
     background: #a1fafa ;
     margin-left: 2%;
     margin-right: 2%;
@@ -56,4 +56,9 @@
     border-radius: 40px;
     width: 400px;
     height: 350px;  
+}
+#inicio{
+    width: 10%;
+   height: 35px;
+   background-image: linear-gradient(to right, rgb(3, 152, 172), aqua, rgb(157, 248, 255) );
 }

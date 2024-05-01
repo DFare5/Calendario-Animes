@@ -57,3 +57,17 @@
    height: 35px;
    background-image: linear-gradient(to right, rgb(3, 152, 172), aqua, rgb(157, 248, 255) );
 }
+#proximo{
+    width: 10%;
+    height: 35px;
+    background-image: linear-gradient(to right, rgb(3, 152, 172), aqua, rgb(157, 248, 255) );
+    position: relative;
+    left: 33%;
+}
+#voltar{
+    width: 10%;
+    height: 35px;
+    background-image: linear-gradient(to right, rgb(3, 152, 172), aqua, rgb(157, 248, 255) );
+    position: relative;
+    right: 33%;
+}

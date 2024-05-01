@@ -55,6 +55,16 @@
 .konosuba-imagem{
     border-radius: 40px;
     width: 400px;
+    height: 350px;
+}
+.kaii-imagem{
+    border-radius: 40px;
+    width: 400px;
+    height: 350px;  
+}
+.viral-imagem{
+    border-radius: 40px;
+    width: 400px;
     height: 350px;  
 }
 #inicio{
